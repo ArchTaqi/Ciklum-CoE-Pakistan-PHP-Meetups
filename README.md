@@ -1,2 +1,3 @@
 # Ciklum-CoE-Pakistan-PHP-Meetups
-Ciklum Pakistan Center of Excellence PHP Community Meetups 
+
+A central repository for all Ciklum Pakistan CoE PHP Community Meetups 
